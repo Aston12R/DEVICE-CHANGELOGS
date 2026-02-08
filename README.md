@@ -1,5 +1,5 @@
 ##### DEVICE CHANGELOGS #####
-
+idk
 KNown issues :
 
 1.CAMERA ISSUE (USE GCAM AND DISABLE AOSP CAM)
